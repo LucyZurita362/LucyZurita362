@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucyZurita362
-- 👀 I’m interested in robptics
+- 👀 I’m interested in robotics
 - 🌱 I’m currently learning engineering dynamics and physics E&M
 - 💞️ I’m looking to collaborate on robotics
 - 📫 You can reach me at lucila.m.zurita@gmail.com
