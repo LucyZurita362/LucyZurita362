@@ -2,7 +2,7 @@
 - 👀 I’m interested in robptics
 - 🌱 I’m currently learning engineering dynamics and physics E&M
 - 💞️ I’m looking to collaborate on robotics
-- 📫 You can reach me at lucila.n.zurita@gmail.com
+- 📫 You can reach me at lucila.m.zurita@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I run for fun
 
